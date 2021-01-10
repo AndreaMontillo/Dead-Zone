@@ -10,4 +10,6 @@ Questo progetto è stato realizzato per il corso di Software Engineering tenuto 
 Lo sviluppo del progetto è stato caratterizzato dalla metodologia Scrum che ha permesso di gestire efficientemente il contributo di ogni elemento del gruppo. Nel corso del progetto sono stati utilizzati alcuni pattern di programmazione per ogni tipologia: pattern Creazionali, Strutturali e Comportamentali.
 È stato inoltre utilizzato un DataBase attraverso PostgreSQL per l’archiviazione dei punteggi dei vari utenti.
 
+Inoltre, sono state implementate diverse tipologie di nemici, tutte si muovo verso il protagonista utilizzando l'algoritmo di Dijkstra e quindi seguendo il percorso più breve.
+
 
