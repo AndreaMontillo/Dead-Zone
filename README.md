@@ -1,6 +1,6 @@
 # Dead-Zone
 
-Questo progetto è stato realizzato per il corso di Software Engineering tenuto all’università degli studi di Salerno. Lo scopo del progetto consiste nello sviluppare una gioco retrò in due dimensioni. Il risultato consiste in un gioco “survival” in cui il protagonista può muoversi all’interno di una mappa interattiva e deve sopravvivere eliminando varie ondate di nemici grazie alle varie armi e gadget che ha a disposizione. 
+Questo progetto è stato realizzato per il corso di Software Engineering tenuto all’università degli studi di Salerno. Lo scopo del progetto consiste nello sviluppare un gioco retrò in due dimensioni. Il risultato consiste in un gioco “survival” in cui il protagonista può muoversi all’interno di una mappa interattiva e deve sopravvivere eliminando varie ondate di nemici grazie alle varie armi e gadget che ha a disposizione. 
 
 
 <p align="center">
